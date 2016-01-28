@@ -1,0 +1,28 @@
+#homePage {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+#homePage form {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+#homePage p {
+    margin: 20px;
+}
+
+#homePageBtnsRow {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+#homePageBtnsRow > * {
+    margin: 5px;
+}

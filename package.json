@@ -1,0 +1,34 @@
+{
+  "name": "StarterKit",
+  "version": "1.0.0",
+  "description": "Cordova ReactJS StarterKit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.14.2",
+    "browserify": "^12.0.1",
+    "cookie-parser": "^1.4.1",
+    "dispatch": "^1.0.0",
+    "express": "^4.13.4",
+    "express-session": "^1.13.0",
+    "firebase": "^2.4.0",
+    "gulp": "^3.9.0",
+    "gulp-streamify": "^1.0.2",
+    "gulp-uglify": "^1.5.1",
+    "gulp-util": "^3.0.7",
+    "history": "^1.17.0",
+    "jquery": "^2.2.0",
+    "multer": "^1.1.0",
+    "react": "^0.14.5",
+    "react-dom": "^0.14.3",
+    "react-router": "^1.0.3",
+    "reactify": "^1.1.1",
+    "request": "^2.69.0",
+    "vinyl-source-stream": "^1.1.0",
+    "watchify": "^3.6.1"
+  }
+}

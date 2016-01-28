@@ -1,0 +1,26 @@
+# Mac
+.DS_Store
+
+# Cordova
+# Assumption:
+# 1. you are not modifying any platform specific code
+# 2. and plugins are saved with --save
+platforms/
+plugins/
+
+# res
+resources/signing
+
+#node_modules
+node_modules/
+
+#bower_components
+bower_components/
+
+# Emulator logs
+platforms/ios/cordova/console.log
+
+#IDE related
+.idea
+
+www/js/index*
